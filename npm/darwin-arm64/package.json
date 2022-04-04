@@ -1,0 +1,18 @@
+{
+  "name": "@khaf/random-darwin-arm64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "random.darwin-arm64.node",
+  "files": [
+    "random.darwin-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
